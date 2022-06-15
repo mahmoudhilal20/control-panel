@@ -1,0 +1,8 @@
+This code from my job. it's a marketing management system that is responsbile
+for creating web pages on another domains using ftp connections and getting
+leads and data filled by the forms in the web pages to the dashboard.so we have
+the ability to manage the leads in addition to send them using apis that is 
+registered in this system.
+The front is made using Bootstrap, CSS, Javascript and JQuery (also previous 
+made theme was used)
+the backend was made using PHP (OOP), MYSQL Database (Even the APIS).
